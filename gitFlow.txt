@@ -1,0 +1,49 @@
+*   15dd762 Merge branch 'production'
+|\  
+| *   a3c5044 Merge branch 'hotfix' into production
+| |\  
+| | | *   44a8742 Conflict fixed
+| | | |\  
+| | | |/  
+| | |/|   
+| | * | 57a083f Hotfix
+| |/ /  
+| * |   f549149 Merge branch 'master' into production
+| |\ \  
+| |/ /  
+|/| |   
+* | |   e98378a feature2 conflict added
+|\ \ \  
+* \ \ \   dc3dd9a Merge branch 'feature3'
+|\ \ \ \  
+| |_|/ /  
+|/| | |   
+| | | *   38069fd feature2 conflict added
+| | | |\  
+| | | |/  
+| | |/|   
+| | * | 75da76f feature2++ aded
+| | | *   3defcd3 feature3 conflict added
+| | | |\  
+| | |_|/  
+| |/| |   
+| * | | dca8ee7 feature3++ added
+| * | | 68b6531 feature3 added
+|/ / /  
+| | *   e7b514b Merge branch 'feature2' into develop
+| | |\  
+| | |/  
+| |/|   
+| * | eca2a30 feature2 added
+|/ /  
+* |   27416d4 Merge branch 'feature1' to Msater
+|\ \  
+| | *   de74bef Merge branch 'feature1' into develop
+| | |\  
+| |/ /  
+|/| /   
+| |/    
+| * 3d098ea feature1++
+| * 212bacd feature1
+|/  
+* a30ff50 Initial commit
